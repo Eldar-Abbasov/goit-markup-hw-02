@@ -39,7 +39,7 @@ p {
 .header-logo {
   color: #2e2f42;
   text-transform: uppercase;
-  font-family: Raleway;
+  font-family: 'Raleway';
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
@@ -133,7 +133,7 @@ footer {
 .footer-logo {
   color: #fff;
   text-transform: uppercase;
-  font-family: Raleway;
+  font-family: 'Raleway';
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
