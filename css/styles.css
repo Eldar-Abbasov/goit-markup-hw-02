@@ -1,0 +1,152 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #2e2f42;
+  background-color: #fff;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  font-style: normal;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
+}
+
+p {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+
+/* ================header section============================= */
+.header-logo {
+  color: #2e2f42;
+  text-transform: uppercase;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.54px;
+}
+
+.header-logo-accent {
+  color: #4d5ae5;
+}
+
+.header-nav-link {
+  color: #2e2f42;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+
+.header-nav-link:hover {
+  color: #404bbf;
+}
+
+.header-mailtel {
+  color: #434455;
+  font-size: 16px;
+
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+.header-mailtel:hover {
+  color: #404bbf;
+}
+
+/* banner section ============================================================*/
+.banner {
+  background-color: #2e2f42;
+}
+
+.banner-text {
+  color: #fff;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 1.12px;
+}
+
+.banner-button {
+  color: #fff;
+  background-color: #4d5ae5;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.64px;
+  padding: 16px 32px;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+}
+
+.banner-button:hover {
+  background-color: #404bbf;
+}
+
+/* !!!!!!!!!!!!!!!! как правильно прятать ============================================== */
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+/* ===================== team section ========================================= */
+.team {
+  background-color: #f4f4fd;
+}
+
+/* =============FOOTER============TODO: background to see text and logo=========== */
+
+footer {
+  background-color: #2e2f42;
+}
+
+.footer-logo {
+  color: #fff;
+  text-transform: uppercase;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.54px;
+}
+
+.footer-logo-accent {
+  color: #4d5ae5;
+}
+
+.footer-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+  background-color: #2e2f42;
+}
