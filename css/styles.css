@@ -1,6 +1,6 @@
 body {
-  font-family: 'Roboto', sans-serif;
-  color: #2e2f42;
+  font-family: Roboto, sans-serif;
+  color: #434455;
   background-color: #fff;
 }
 
@@ -14,6 +14,7 @@ a {
 }
 
 h2 {
+  color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -22,6 +23,7 @@ h2 {
 }
 
 h3 {
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -29,7 +31,6 @@ h3 {
 }
 
 p {
-  color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.32px;
@@ -39,7 +40,7 @@ p {
 .header-logo {
   color: #2e2f42;
   text-transform: uppercase;
-  font-family: 'Raleway';
+  font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
@@ -65,7 +66,6 @@ p {
 .header-mailtel {
   color: #434455;
   font-size: 16px;
-
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
@@ -131,9 +131,9 @@ footer {
 }
 
 .footer-logo {
-  color: #fff;
+  color: #f4f4fd;
   text-transform: uppercase;
-  font-family: 'Raleway';
+  font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
@@ -145,8 +145,8 @@ footer {
 }
 
 .footer-text {
+  color: #f4f4fd;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.32px;
-  background-color: #2e2f42;
 }
