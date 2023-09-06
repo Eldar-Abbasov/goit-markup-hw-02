@@ -59,7 +59,8 @@ p {
   letter-spacing: 0.32px;
 }
 
-.header-nav-link:hover {
+.header-nav-link:hover,
+.header-nav-link:focus {
   color: #404bbf;
 }
 
@@ -69,7 +70,8 @@ p {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
-.header-mailtel:hover {
+.header-mailtel:hover,
+.header-mailtel:focus {
   color: #404bbf;
 }
 
