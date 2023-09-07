@@ -129,9 +129,9 @@ a {
 
 /* ===================== team section ========================================= */
 .team-section {
-  background-color: #f4f4fd;
 }
 .team-section-title {
+  text-align: center;
   color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
@@ -160,6 +160,7 @@ a {
 .portfolio-section-list {
 }
 .portfolio-section-title {
+  text-align: center;
   color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
