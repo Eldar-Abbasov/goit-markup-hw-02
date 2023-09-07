@@ -21,20 +21,6 @@ h2 {
   text-transform: capitalize;
 }
 
-h3 {
-  color: #2e2f42;
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.4px;
-}
-
-p {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.32px;
-}
-
 /* ================header section============================= */
 .header-logo {
   color: #4d5ae5;
@@ -100,7 +86,6 @@ p {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.64px;
-
   cursor: pointer;
 }
 
@@ -110,7 +95,7 @@ p {
 }
 
 /* !!!!!!!!!!!!!!!! как правильно прятать ============================================== */
-
+/* 
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -122,6 +107,23 @@ p {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
+}
+
+*/
+
+/* =========================advantages=============================== */
+.advantages-title {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
+}
+
+.advantages-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
 }
 
 /* ===================== team section ========================================= */
