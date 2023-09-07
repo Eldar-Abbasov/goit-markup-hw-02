@@ -140,8 +140,10 @@ a {
   text-transform: capitalize;
 }
 .team-section-list {
+  background-color: #fff;
 }
 .team-section-name {
+  text-align: center;
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
